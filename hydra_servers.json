@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "USA",
+      "country_code": "US",
+      "city_name": "",
+      "link": "vless://34da4fcd-a32f-4d1b-c547-69efcc4a6377@us-xu1.medge-g2-dsadssdfsfd.xyz:2053?encryption=none&security=reality&sni=discord.com&fp=random&pbk=sgmkqtOpJwu8Bxk5pCrQdmj0-VRZvEhL6dCg1JAeCQA&sid=ce01235b&spx=%2F&type=tcp#USA",
+      "status": "1"
+    },
+    {
+      "id": 2,
+      "name": "Poland",
+      "country_code": "PL",
+      "city_name": "",
+      "link": "vless://34da4fcd-a32f-4d1b-c547-69efcc4a6377@pl-xu1.medge-g2-dsadssdfsfd.xyz:2053?encryption=none&security=reality&sni=discord.com&fp=random&pbk=sgmkqtOpJwu8Bxk5pCrQdmj0-VRZvEhL6dCg1JAeCQA&sid=ce01235b&spx=%2F&type=tcp#Poland",
+      "status": "1"
+    },
+    {
+      "id": 3,
+      "name": "Netherlands",
+      "country_code": "NL",
+      "city_name": "",
+      "link": "vless://34da4fcd-a32f-4d1b-c547-69efcc4a6377@51.158.244.90:2053?encryption=none&security=reality&sni=discord.com&fp=random&pbk=sgmkqtOpJwu8Bxk5pCrQdmj0-VRZvEhL6dCg1JAeCQA&sid=ce01235b&spx=%2F&type=tcp#Netherlands",
+      "status": "1"
+    },
+    {
+      "id": 4,
+      "name": "Germany",
+      "country_code": "DE",
+      "city_name": "",
+      "link": "vless://34da4fcd-a32f-4d1b-c547-69efcc4a6377@45.142.115.186:2053?encryption=none&security=reality&sni=discord.com&fp=random&pbk=sgmkqtOpJwu8Bxk5pCrQdmj0-VRZvEhL6dCg1JAeCQA&sid=ce01235b&spx=%2F&type=tcp#Germany",
+      "status": "1"
+    }
+  ],
+  "next_page_url": null
+}
